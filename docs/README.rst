@@ -67,7 +67,7 @@ Add the dmarc.urls to your urls::
 
 This is a sample report styled with `Bootstrap`_.
 
-.. image:: images/dmarc-report.png
+.. image:: https://github.com/alan-hicks/d http://ekstrabladet.dk/nyheder/terror/nu-er-terror-parret-begravet/5875235docs/images/dmarc-report.png
    :alt: Sample DMARC report
 
 Dependencies
